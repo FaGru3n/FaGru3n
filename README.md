@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning so much to contribute to github.
 - 📫 How to reach me via github [issues](https://github.com/FaGru3n/like-otters/issues/new/choose)
 
-<!---
-FaGru3n/FaGru3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![linkedin-shield](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin)](https://linkedin.com/in/fabian-g%C3%BCn-b61b28251)  
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Fagru3n?color=black&style=plastic)
