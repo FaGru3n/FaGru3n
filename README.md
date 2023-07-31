@@ -23,6 +23,12 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FaGru3n&count_private=false&show_icons=true&theme=gotham)
 
+### Waka Time
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ### 🤝🏻 Get in touch:
 
 [![GitHub-shield][GitHub-badge]][GitHub-Issue-link]
