@@ -12,8 +12,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          # following flags are required, only if this is not on
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # meta
           API_BASE_URL: https://wakatime.com/api
