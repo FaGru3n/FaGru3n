@@ -28,13 +28,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 07 August 2023
+From: 01 August 2023 - To: 08 August 2023
 
-Go          2 hrs 48 mins   ██████████████████████▓░░   90.08 %
-Markdown    13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-HCL         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
