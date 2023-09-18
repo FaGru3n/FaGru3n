@@ -13,9 +13,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: FaGru3n/FaGru3n
+          #REPOSITORY: FaGru3n/FaGru3n
           # following flags are required, only if this is not on
-          GH_TOKEN: ${{ secrets.WAKA_GH_TOKEN }}
+          #GH_TOKEN: ${{ secrets.WAKA_GH_TOKEN }}
           # meta
           API_BASE_URL: https://wakatime.com/api
           # profile readme content
