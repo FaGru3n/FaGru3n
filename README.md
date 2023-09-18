@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2023 - To: 28 August 2023
+From: 10 September 2023 - To: 17 September 2023
 
-No activity tracked
+Markdown         6 hrs 13 mins   ████████████████▒░░░░░░░░   65.63 %
+Terraform        1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Bash             41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+HCL              27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+JSON             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
