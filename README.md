@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-Markdown         5 hrs 24 mins   █████████████████▒░░░░░░░   68.85 %
-YAML             2 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.64 %
-Assembly         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Go               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Markdown         4 hrs 53 mins   ██████████████░░░░░░░░░░░   55.62 %
+YAML             3 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.09 %
+Assembly         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Go               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
