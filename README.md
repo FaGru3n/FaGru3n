@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-Markdown         1 hr 46 mins    ██████████▒░░░░░░░░░░░░░░   41.92 %
-YAML             1 hr 29 mins    ████████▓░░░░░░░░░░░░░░░░   35.28 %
-GDScript3        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Text             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-go.mod           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown         2 hrs 12 mins   █████████▓░░░░░░░░░░░░░░░   38.25 %
+YAML             1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   28.37 %
+GDScript3        52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Go               25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+go.mod           20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
