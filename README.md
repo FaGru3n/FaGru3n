@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Markdown             2 hrs 7 mins    █████████████████░░░░░░░░   68.45 %
-YAML                 25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Ezhil                13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Assembly             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Other                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Markdown             2 hrs 7 mins    █████████████████░░░░░░░░   67.59 %
+YAML                 25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Ezhil                13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Assembly             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Other                4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
