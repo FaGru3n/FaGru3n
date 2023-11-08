@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-Markdown         3 hrs 6 mins    ████████████████████░░░░░   80.10 %
-textmate         32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Text             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-IDEA_MODULE      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+textmate         31 mins         █████████████████░░░░░░░░   67.96 %
+Markdown         11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+YAML             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+IDEA_MODULE      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
