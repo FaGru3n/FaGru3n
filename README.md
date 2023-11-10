@@ -28,9 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
-Markdown   0 secs          █████████████████████████   100.00 %
+Markdown    2 hrs 10 mins   ███████████████████████▓░   95.15 %
+Terraform   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+SVG         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+textmate    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+XML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
