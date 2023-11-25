@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 22 November 2023
+From: 16 November 2023 - To: 23 November 2023
 
-Markdown         4 hrs 35 mins   ████████████████████████▓   98.03 %
-Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown         3 hrs 55 mins   ████████████████████████▒   97.70 %
+Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
