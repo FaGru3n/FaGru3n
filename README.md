@@ -1,5 +1,3 @@
-![Background](./assets/green-tree-leaf.jpg)
-
 - 👋 Hi all, I’m Fabian and working as a Reliability Engineer for [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en)
 - 👀 I’m interested in sustainable code solutions and new things to learn about a sustainable environment for all of us.
 - 🌱 I’m currently learning contributing to FOSS with GitHub and ArgoCD in the [Eclipse Tractus-X Environment][Eclipse-Tractus-X-Link].
