@@ -26,13 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Markdown   3 hrs 54 mins   ██████████████████████▓░░   90.63 %
-YAML       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-textmate   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown   2 hrs 33 mins   ███████████████████████░░   92.45 %
+textmate   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
