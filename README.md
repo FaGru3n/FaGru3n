@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2023 - To: 12 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Markdown    4 hrs 14 mins   ████████████████████▓░░░░   82.30 %
-Terraform   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-textmate    19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-HCL         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Markdown    4 hrs 27 mins   █████████████████████▓░░░   86.40 %
+Terraform   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+textmate    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+HCL         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 Bash        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
