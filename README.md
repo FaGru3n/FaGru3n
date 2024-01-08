@@ -17,6 +17,10 @@
 ![ArgoCD][ArgoCD-badge]&nbsp;
 ![Linux][Linux-badge]&nbsp;
 
+### 🏅Badges
+
+[![eclipse-foundation-committer-badge](https://github.com/FaGru3n/FaGru3n/assets/121097161/ec8d621c-580b-4d97-a582-3aaddd6bc0a4)](https://www.credly.com/badges/dd3a0aac-5497-47df-b76b-4a8e1d1c16b5/public_url)
+
 ###  ⚙️ Github Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FaGru3n&count_private=false&show_icons=true&theme=gotham)
