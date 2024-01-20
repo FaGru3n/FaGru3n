@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Markdown         7 hrs 52 mins   ████████████████████████░   95.43 %
-textmate         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-PDF              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown         4 hrs 11 mins   ███████████████████████▒░   93.05 %
+textmate         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+PDF              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
