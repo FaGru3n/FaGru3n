@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
 Markdown         4 hrs 30 mins   ██████████████████▒░░░░░░   72.88 %
 JavaScript       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
