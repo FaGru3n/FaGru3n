@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Markdown         3 hrs 51 mins   ███████████████████▓░░░░░   78.01 %
-JavaScript       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-JSON             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Go               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-IDEA_MODULE      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Markdown         4 hrs 49 mins   ████████████████████░░░░░   80.33 %
+YAML             24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+JavaScript       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JSON             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Go               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
