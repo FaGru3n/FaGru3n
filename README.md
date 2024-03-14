@@ -46,6 +46,7 @@ JSON             0 secs          ░░░░░░░░░░░░░░░�
 [![GitHub-shield][GitHub-badge]][GitHub-Issue-link]
 [![linkedin-shield][LinkedIn-shield]][LinkedIn-link]
 
+![][Profile-Counter]
 <!--- Links --->
 [LinkedIn-link]:   https://www.linkedin.com/in/fabian-gr%C3%BCn-b61b28251/
 [GitHub-Issue-link]: https://github.com/FaGru3n/like-otters/issues/new/choose
@@ -62,3 +63,4 @@ JSON             0 secs          ░░░░░░░░░░░░░░░�
 [Kubernetes-badge]: https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white
 [Helm-badge]: https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white
 [Eclipse-Tractus-X-Link]: https://eclipse-tractusx.github.io/
+[Profile-Counter]: https://komarev.com/ghpvc/?username=fagru3n&style=for-the-badge&label=profile+view+counter
