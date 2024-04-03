@@ -30,11 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-YAML       1 hr 3 mins     ███████████████████████▒░   93.35 %
-Markdown   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown   3 mins          ███████████████████████▒░   92.67 %
+YAML       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
