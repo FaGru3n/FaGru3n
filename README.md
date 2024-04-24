@@ -30,10 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2024 - To: 21 April 2024
+From: 15 April 2024 - To: 22 April 2024
 
-Markdown   17 mins         ████████████████████████▓   99.03 %
-Mermaid    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown      20 mins         █████████████████████░░░░   83.47 %
+JSON          3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Mermaid       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
