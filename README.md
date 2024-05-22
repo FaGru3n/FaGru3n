@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Markdown         39 mins         █████████████████▓░░░░░░░   70.49 %
-Text             14 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-YAML             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown         23 mins         ██████████████▓░░░░░░░░░░   58.86 %
+Text             14 mins         ████████▓░░░░░░░░░░░░░░░░   34.98 %
+YAML             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
