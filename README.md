@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
 Markdown   14 mins         ██████████████████████░░░   87.65 %
 Text       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
