@@ -30,12 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
-Markdown   14 mins         ██████████████████████░░░   87.77 %
-Text       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
