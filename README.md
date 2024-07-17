@@ -30,9 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
-Markdown   0 secs          █████████████████████████   100.00 %
+Markdown    9 mins          ██████████████████░░░░░░░   71.64 %
+Terraform   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+YAML        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+HCL         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+textmate    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
