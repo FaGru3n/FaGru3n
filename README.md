@@ -30,10 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-Markdown   39 mins         ███████████████████▒░░░░░   77.96 %
-YAML       11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+Markdown   1 hr 27 mins    ██████████████████████▒░░   88.67 %
+YAML       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
 ```
 
 <!--END_SECTION:waka-->
