@@ -30,9 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Markdown   3 hrs 9 mins    █████████████████████████   100.00 %
+Markdown   4 hrs 5 mins    ███████████████████████▓░   94.47 %
+Text       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Smarty     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
