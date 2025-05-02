@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Markdown         3 hrs 5 mins    ████████████████████▒░░░░   81.62 %
-Text             14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-JSON             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-yarn.lock        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Markdown         1 hr 57 mins    ███████████████████░░░░░░   76.14 %
+JavaScript       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+YAML             14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
