@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-JavaScript   21 mins         ███████████░░░░░░░░░░░░░░   43.93 %
-YAML         14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.25 %
-Markdown     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Markdown     1 hr 4 mins     █████████████████████████   99.97 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
