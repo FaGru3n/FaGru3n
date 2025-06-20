@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Markdown   1 hr 46 mins    █████████████████████████   100.00 %
+Markdown   41 mins         █████████████████████████   100.00 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
