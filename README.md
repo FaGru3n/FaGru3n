@@ -30,9 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Markdown   38 mins         █████████████████████████   100.00 %
+Markdown     1 hr 10 mins    ██████████████████░░░░░░░   71.73 %
+Text         20 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
