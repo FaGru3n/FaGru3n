@@ -30,13 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-Markdown     31 mins         █████████████▒░░░░░░░░░░░   53.61 %
-Text         20 mins         ████████▓░░░░░░░░░░░░░░░░   34.40 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
