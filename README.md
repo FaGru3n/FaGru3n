@@ -1,15 +1,61 @@
 - 👋 Hi all, I’m Fabian and working as a Reliability Engineer for [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en)
 - 👀 I’m interested in sustainable code solutions and new things to learn about a sustainable environment for all of us.
-- 🌱 I’m currently learning contributing to FOSS with GitHub and ArgoCD in the [Eclipse Tractus-X Environment][Eclipse-Tractus-X-Link].
 - 📫 How to reach [me](#-get-in-touch)
 
-### 🛠 Languages, Plattform and Tools:
+## 🚀 Reliability Engineer | FinOps Enthusiast | Green-IT Advocate
+
+Welcome to my GitHub page! I thrive at the intersection of reliability, cost optimization, and sustainability in tech.  
+Currently driving **FinOps** projects and managing cloud environments on **Azure** and **Google Cloud**.
+
+---
+
+### 🔧 Top Skills
+- **FinOps** | Cost Management | Cloud Strategy
+- **Kubernetes** | Cloud Native Operations
+- **GitHub** | Collaboration | Automation
+- **SAFe** | Lean Agile Practices
+- **ELK Stack** | Monitoring & Observability
+- **Green-IT** | Environmentally Responsible Tech
+- **Responsibility** | Ownership & Impact
+
+---
+
+### 🌱 Projects & Initiatives
+
+- [skills-communicate-using-markdown](https://github.com/FaGru3n/skills-communicate-using-markdown)  
+  *Sharing best practices for technical communication.*
+
+- [like-otters](https://github.com/FaGru3n/like-otters)  
+  *Where curiosity meets collaboration.*
+
+---
+
+### 🌿 Hobbies & Interests
+
+- Exploring **nature** & hiking remote trails
+- Practicing **archery**
+- Growing and caring for **plants**
+
+---
+
+### 💬 Fun Fact / Motto
+
+> **42**
+> 
+> **I have not more Fu***s to give.**
+
+Sometimes you just have to embrace the absurd and keep moving forward.
+
+---
+
+_Always open to collaboration on sustainability, cloud, and reliability topics!_
+
+### 🛠 Languages, Plattforms and Tools:
 
 ![GitHub][GitHub-badge]&nbsp;
 ![GitHub-Action][GitHub-Action-badge]&nbsp;
 ![GoLand][GoLand-badge]&nbsp;
 ![Kubernetes][Kubernetes-badge]&nbsp;
-![Markdown][Markdown-badge]&nbsp;
 ![Elastic][Elastic-badge]&nbsp;
 ![Git][Git-badge]&nbsp;
 ![Azure][Azure-badge]&nbsp;
@@ -50,7 +96,6 @@ No activity tracked
 [Git-badge]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black
 [GitHub-badge]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 [GitHub-Action-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=black
-[Markdown-badge]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white
 [Azure-badge]: https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=black
 [ArgoCD-badge]: https://img.shields.io/badge/Argo-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=black
 [Elastic-badge]: https://img.shields.io/badge/Elastic-005571.svg?style=for-the-badge&logo=Elastic&logoColor=white
