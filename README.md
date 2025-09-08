@@ -38,13 +38,7 @@ Currently driving **FinOps** projects and managing cloud environments on **Azure
 
 ---
 
-### 💬 Fun Fact / Motto
-
-> **42**
-> 
-> **I have not more Fu***s to give.**
-
-Sometimes you just have to embrace the absurd and keep moving forward.
+> Sometimes you just have to embrace the absurd and keep moving forward.
 
 ---
 
