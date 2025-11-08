@@ -70,9 +70,11 @@ _Always open to collaboration on sustainability, cloud, and reliability topics!_
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-Markdown   6 mins          █████████████████████████   100.00 %
+Markdown     1 hr 14 mins    ██████████████████▓░░░░░░   75.01 %
+JSON         23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
