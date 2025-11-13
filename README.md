@@ -70,11 +70,11 @@ _Always open to collaboration on sustainability, cloud, and reliability topics!_
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Markdown     3 hrs 28 mins   ██████████████████████░░░   88.21 %
-JSON         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown     3 hrs 44 mins   ██████████████████████▒░░   88.97 %
+JSON         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
